@@ -1,0 +1,18 @@
+.cell {
+    background-color: #DDD;
+    height: 50px;
+    width: 50px;
+    margin: 0px 2px;
+    border-radius: 5px;
+    display: inline-block;
+}
+#snakeblock {
+    text-align: center;
+    margin: 30px;
+}
+.apple {
+    background: #66FF66;
+}
+.snakecell{
+    background: #FFCC44;
+}
