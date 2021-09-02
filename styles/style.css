@@ -16,3 +16,7 @@
 .snakecell{
     background: #FFCC44;
 }
+
+#snakeblock > div {
+    display: ruby;
+}
